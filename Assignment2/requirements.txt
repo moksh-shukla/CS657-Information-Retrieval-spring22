@@ -1,0 +1,9 @@
+gensim
+sklearn
+torch
+pickle
+transformers
+sentencepiece
+nltk
+indic-nlp-library
+tarfile
