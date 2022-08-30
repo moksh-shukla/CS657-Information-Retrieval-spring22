@@ -4,7 +4,7 @@ Research Paper Presentation required student groups to present a state of the ar
 
 ### Research Paper
 
-1. Cross-lingual Cross-modal Pretraining for Multimodal Retrieval (Fei et al., NAACL 2021)[Paper](https://aclanthology.org/2021.naacl-main.285) 
+1. Cross-lingual Cross-modal Pretraining for Multimodal Retrieval (Fei et al., NAACL 2021)   [[Paper]](https://aclanthology.org/2021.naacl-main.285) 
 
 ### Group Members
 
